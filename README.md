@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mouhamedamin.bouazizi1s4@gmail.com**
 
-- 📄 Know about my experiences [Worked on several academic and personal projects involving CRUD operations, REST APIs, and modern UI](Worked on several academic and personal projects involving CRUD operations, REST APIs, and modern UI)
+- 📄 Know about my experiences (Worked on several academic and personal projects involving CRUD operations, REST APIs, and modern UI)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
